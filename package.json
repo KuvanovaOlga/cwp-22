@@ -1,0 +1,20 @@
+{
+  "name": "cwp-22",
+  "repository": { "type" : "git"
+  , "url" : "https://github.com/KuvanovaOlga/CWP/cwp-22.git"
+  },
+  "version": "1.0.0",
+  "dependencies": {
+    
+  },
+  "keywords": [
+    "lol",
+    "kek"
+  ],
+  "author": "Olya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KuvanovaOlga/CWP/cwp-22/issues"
+  }
+}
+
